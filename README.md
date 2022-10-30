@@ -1,3 +1,3 @@
 - Hi, I’m Othmane El Alami
 - I’m interested in tech in general, video games and Japanese culture
-- I’m actually working as junior IT Consultant
+- I’m actually working as an IT Consultant 👨‍💻
