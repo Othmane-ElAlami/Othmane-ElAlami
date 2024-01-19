@@ -6,7 +6,7 @@
 
 📫 **Contactez-moi:**
 - **Email:** [othmane-elalami@outlook.com](mailto:othmane-elalami@outlook.com)
-- **GitHub:** [github.com/OthmaneElAlami](https://github.com/OthmaneElAlami)
+- **GitHub:** [Othmane El Alami](https://github.com/Othmane-ElAlami)
 
 ---
 
