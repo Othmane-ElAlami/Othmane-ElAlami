@@ -6,8 +6,9 @@
 
 📫 **Contactez-moi:**
 - **Email:** [othmane-elalami@outlook.com](mailto:othmane-elalami@outlook.com)
-- **GitHub:** [Othmane El Alami](https://github.com/Othmane-ElAlami)
-- **LinkedIn:** [Othmane El Alami](https://www.linkedin.com/in/othmane-el-alami)
+- **[Skype](live:Othmane-ElAlami)** 
+- **[GitHub](https://github.com/Othmane-ElAlami)** 
+- **[LinkedIn](https://www.linkedin.com/in/Othmane-ElAlami)** 
 
 ---
 
