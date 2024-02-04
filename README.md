@@ -5,8 +5,8 @@
 ---
 
 📫 **Contactez-moi:**
+- **Skype:** [live:othmane-elalami](https://join.skype.com/invite/zfezw7Ykc3ZH)
 - **Email:** [othmane-elalami@outlook.com](mailto:othmane-elalami@outlook.com)
-- **[Skype](live:Othmane-ElAlami)** 
 - **[GitHub](https://github.com/Othmane-ElAlami)** 
 - **[LinkedIn](https://www.linkedin.com/in/Othmane-ElAlami)** 
 
