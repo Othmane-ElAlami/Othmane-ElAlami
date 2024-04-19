@@ -1,4 +1,4 @@
-# Othmane El Alami
+# Othmane EL ALAMI
 ### Consultant Technico-Fonctionnel & Ancien Développeur .NET
 *🌐 27 ans | Trilingue | Casablanca, Maroc*
 
