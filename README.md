@@ -1,45 +1,54 @@
 # Othmane EL ALAMI
-### Consultant Technico-Fonctionnel & Ancien Développeur .NET
-*🌐 27 ans | Trilingue | Casablanca, Maroc*
+### Techno-Functional Consultant, Node.js & .NET Developer, Android & Windows Enthusiast
+*🌐 27 years old | Trilingual | Casablanca, Morocco*
 
 ---
 
-📫 **Contactez-moi:**
+📫 **Reach me at:**
+- **GitHub:** [Othmane-ElAlami](https://github.com/Othmane-ElAlami)
+- **LinkedIn:** [Othmane EL ALAMI](https://www.linkedin.com/in/Othmane-ElAlami)
 - **Skype:** [live:othmane-elalami](https://join.skype.com/invite/zfezw7Ykc3ZH)
 - **Email:** [othmane-elalami@outlook.com](mailto:othmane-elalami@outlook.com)
-- **[GitHub](https://github.com/Othmane-ElAlami)** 
-- **[LinkedIn](https://www.linkedin.com/in/Othmane-ElAlami)** 
+
+
 
 ---
 
-### 💼 Expériences Professionnelles
-- **Nuspol (Consultant Technico-Fonctionnel)**
-  - Août 2022 - Présent
-  - 🔍 Projets clés : Migration complète du système informatique pour la Fondation Arrawaj / MSF.
-- **Freelance (Développeur .NET)**
-  - Jan 2021 - Août 2022
-  - 🛒 Site web E-commerce et diverses applications (.NET Core 3.1 / Azure / SQL Server)
+### 💼 Professional Experience
+- **Nuspol (Techno-Functional Consultant)**
+  - *August 2022 - Present*
+  - 🔍 **Key Achievements:**
+    - Led the full IT system migration for **Fondation Arrawaj** / **MSF**, driving efficiency and performance enhancements.
+- **Freelancer (.NET Developer)**
+  - *Jan 2021 - August 2022*
+  - 🛒 **Major Projects:**
+    - Designed and developed e-commerce websites and business applications using **.NET Core 3.1**, **Azure**, and **SQL Server**.
+    - Provided scalable solutions and optimized performance for small businesses.
 
 ---
 
-### 🎓 Formation
-- **SUPINFO** - Master of Science, 2018 - 2020
-- **ISMOTICA** - Technicien spécialisé en développement informatique, 2015 - 2017
+### 🎓 Education
+- **SUPINFO** — Master of Science in Computer Science, *2018 - 2020*
+- **ISMOTICA** — Specialized Technician in Software Development, *2015 - 2017*
 
 ---
 
-### 👨‍💻 Compétences Techniques
-- .NET / C#, JavaScript / HTML / CSS, Swift / Java
-- Azure, SQL Server, Visual Studio, Git, Windows Server, Linux
-- Méthodologie Agile, Microsoft Office, Photoshop, Xcode, Android Studio
+### 👨‍💻 Technical Skills
+- **Backend & Frontend:** .NET / C#, Node.js / JavaScript, Swift / Java
+- **Cloud & Databases:** Azure, SQL Server, MongoDB
+- **Development Tools:** Visual Studio, Git, Windows Server, Linux
+- **Mobile Development:** Xcode, Android Studio
+- **Other Skills:** Agile Methodology, Photoshop, Microsoft Office
 
 ---
 
-### 🗣️ Langues
-- **Arabe:** Courant
-- **Français:** Courant
-- **Anglais:** Avancé
+### 🗣️ Languages
+- **Arabic:** Native
+- **French:** Fluent
+- **English:** Advanced
 
 ---
 
 [![My GitHub stats](https://github-readme-stats-othmane-elalami.vercel.app/api?username=Othmane-ElAlami&count_private=true&hide=stars,prs&show_icons=true&theme=transparent)](https://github.com/Othmane-ElAlami/github-readme-stats)
+
+---
