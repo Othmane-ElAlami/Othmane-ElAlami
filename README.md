@@ -1,64 +1,69 @@
-# **Othmane EL ALAMI**  
+# **Othmane EL ALAMI**
 
-## **Techno-Functional Consultant, Node.js & .NET Developer, Android & Windows Enthusiast**  
+## **Techno-Functional Consultant & Full-Stack Developer**
 
-### **🌐 28 years old | Trilingual | Casablanca, Morocco**
-
----
-
-📫 **Reach me at:**  
-
-- **GitHub:** [Othmane-ElAlami](https://github.com/Othmane-ElAlami)  
-- **LinkedIn:** [Othmane EL ALAMI](https://www.linkedin.com/in/Othmane-ElAlami)  
-- **Skype:** [live:othmane-elalami](https://join.skype.com/invite/zfezw7Ykc3ZH)  
-- **Email:** [othmane-elalami@outlook.com](mailto:othmane-elalami@outlook.com)  
+### _Results-driven IT professional with 4+ years of experience in web development, consulting, and project management._
 
 ---
 
-### 💼 **Professional Experience**  
+📫 **Reach me at:**
 
-- **Nuspol (Techno-Functional Consultant)**  
-  - *August 2022 - Present*  
-  - 🔍 **Key Achievements:**  
-    - Led the IT system migration for **Fondation Arrawaj** / **MSF**, driving efficiency and performance enhancements.  
-    - Conducted in-depth **code reviews** for multiple projects, ensuring adherence to quality standards and best practices.  
-    - Acted as a bridge between technical and business teams to deliver scalable and optimized solutions.  
-
-- **Freelancer (.NET Developer)**  
-  - *Jan 2021 - August 2022*  
-  - 🛒 **Major Projects:**  
-    - Designed and developed e-commerce platforms and business applications using **.NET Core**, **Azure**, and **SQL Server**.  
-    - Provided scalable, robust solutions to small businesses, improving operational efficiency.  
+- **GitHub:** [Othmane-ElAlami](https://github.com/Othmane-ElAlami)
+- **LinkedIn:** [Othmane EL ALAMI](https://www.linkedin.com/in/Othmane-ElAlami)
+- **Email:** [othmane-elalami@outlook.com](mailto:othmane-elalami@outlook.com)
 
 ---
 
-### 🎓 **Education**  
+### 💼 **Professional Experience**
 
-- **SUPINFO** — *Master of Science in Computer Science*  
-  *2018 - 2020*  
-- **ISMOTICA** — *Specialized Technician in Software Development*  
-  *2015 - 2017*  
+- **Nupsol (Techno-Functional Consultant)**
+  - _August 2022 - Present_
+  - 🔍 **Key Contributions:**
+    - Led the seamless migration of the **Fondation Arrawaj** platform to a modern solution, significantly improving performance and user experience.
+    - Collaborated with **Fondation Arrawaj, MSF, and CMI** on tailored solutions for data processing, reporting, and workflow automation.
+    - Provided subcontracting expertise (via Basikon) to major clients in banking and automotive sectors (e.g., **Arkea Bank, FLOA**), focusing on credit and leasing workflows.
+    - Implemented strategic APIs (e.g., **Bank Al Maghrib, HPS, CIH**) for credit, banking/wallet, and leasing functionalities.
+    - Enhanced solutions using the **MERN stack**, boosting performance and maintainability.
 
----
-
-### 👨‍💻 **Technical Skills**  
-
-- **Backend & Frontend Development:** .NET / C#, Node.js / JavaScript, Swift, Java  
-- **Cloud & Databases:** Azure, SQL Server, MongoDB  
-- **Development Tools:** Visual Studio, Git, Windows Server, Linux  
-- **Mobile Development:** Xcode, Android Studio  
-- **Other Expertise:** Agile Methodology, Photoshop, Microsoft Office Suite  
-
----
-
-### 🗣️ **Languages**  
-
-- **Arabic:** Native  
-- **French:** Fluent  
-- **English:** Advanced  
+- **Freelancer (.NET Developer)**
+  - _Jan 2021 - August 2022_
+  - 🛒 **Major Projects:**
+    - Developed a full e-commerce website using **.NET Core, Azure, and SQL Server**.
+    - Built and integrated modern web solutions in multiple .NET-based projects for diverse clients, providing scalable and robust applications.
 
 ---
 
-[![My GitHub stats](https://github-readme-stats-othmane-elalami.vercel.app/api?username=Othmane-ElAlami&count_private=true&hide=stars&show_icons=true&theme=transparent)](https://github.com/Othmane-ElAlami/github-readme-stats)  
+### 🎓 **Education**
+
+- **SUPINFO International University** — _Master of Engineering (M.Eng.)_
+  - _Focus: Emerging technologies, software engineering, and project management_
+  - _2018 - 2020_
+- **ISMOTICA** — _Specialized Technician in Software Development_
+  - _Focus: Software development, programming languages, and database management_
+  - _2015 - 2017_
+
+---
+
+### 🛠️  **Technical Skills**
+
+- **Languages & Frameworks:** JavaScript, C#, .NET, Node.js (MERN Stack)
+- **Backend & Frontend Development:** .NET / C#, Node.js / JavaScript
+- **Cloud & Databases:** Azure, SQL Server (RDBMS), MongoDB (NoSQL)
+- **Development Tools:** Visual Studio, Git, Windows Server, Linux
+- **Mobile Development:** Android Studio, Xcode
+- **Methodologies:** Agile, Scrum
+- **Additional Software:** Microsoft Office Suite, Photoshop
+
+---
+
+### 🌍 **Languages**
+
+- **Arabic:** Native
+- **French:** Fluent
+- **English:** Fluent
+
+---
+
+[![My GitHub stats](https://github-readme-stats-othmane-elalami.vercel.app/api?username=Othmane-ElAlami&count_private=true&hide=stars&show_icons=true&theme=transparent)](https://github.com/Othmane-ElAlami/github-readme-stats)
 
 ---
