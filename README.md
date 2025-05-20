@@ -64,6 +64,6 @@
 
 ---
 
-[![My GitHub stats](https://github-readme-stats-othmane-elalami.vercel.app/api?username=Othmane-ElAlami&count_private=true&hide=stars&show_icons=true&theme=transparent)](https://github.com/Othmane-ElAlami/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-othmane-elalami.vercel.app/api?username=Othmane-ElAlami&count_private=true&hide=stars&show_icons=true&theme=transparent)](https://github.com/Othmane-ElAlami/GitHub-ReadMe-Stats)
 
 ---
