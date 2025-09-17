@@ -1,69 +1,110 @@
-# **Othmane EL ALAMI**
+<div align="center">
 
-## **Techno-Functional Consultant & Full-Stack Developer**
+<h1>Othmane EL ALAMI</h1>
 
-### _Results-driven IT professional with 4+ years of experience in web development, consulting, and project management._
+<p align="center">
+  <a href="mailto:othmane-elalami@outlook.com"><code>📫 Email</code></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Othmane-ElAlami"><code>💻 GitHub</code></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/Othmane-ElAlami"><code>🔗 LinkedIn</code></a>
+</p>
 
----
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3800&pause=900&color=EF5350&center=true&vCenter=true&width=700&lines=rm+-rf+%2F+--no-preserve-root;git+blame-someone-else;%2F%2FTODO%3A+fix+this+later+(never);sudo+reboot+--now+--because-i-can" alt="typing banner" />
+</p>
 
-📫 **Reach me at:**
+<h2>🚀 What I Do</h2>
 
-- **GitHub:** [Othmane-ElAlami](https://github.com/Othmane-ElAlami)
-- **LinkedIn:** [Othmane EL ALAMI](https://www.linkedin.com/in/Othmane-ElAlami)
-- **Email:** [othmane-elalami@outlook.com](mailto:othmane-elalami@outlook.com)
+<p>
+  I design clean <b>APIs</b> and integrations for fintech/banking systems. <br/>
+  Ship production-grade <b>.NET + React</b> platforms with emphasis on reliability. <br/>
+  Leverage <b>Azure</b> to automate, observe, and scale solutions effectively.
+</p>
 
----
+<h2>💼 Proof of Impact</h2>
 
-### 💼 **Professional Experience**
+<ul>
+  <li>Re-platformed <b>Fondation Arrawaj</b> → Improved performance &amp; maintainability</li>
+  <li>Tailored solutions for <b>MSF, CMI, Arkéa, FLOA</b></li>
+  <li>Standards-based integrations for <b>Bank Al-Maghrib, HPS, CIH</b></li>
+</ul>
 
-- **Nupsol (Techno-Functional Consultant)**
-  - _August 2022 - Present_
-  - 🔍 **Key Contributions:**
-    - Led the seamless migration of the **Fondation Arrawaj** platform to a modern solution, significantly improving performance and user experience.
-    - Collaborated with **Fondation Arrawaj, MSF, and CMI** on tailored solutions for data processing, reporting, and workflow automation.
-    - Provided subcontracting expertise (via Basikon) to major clients in banking and automotive sectors (e.g., **Arkea Bank, FLOA**), focusing on credit and leasing workflows.
-    - Implemented strategic APIs (e.g., **Bank Al Maghrib, HPS, CIH**) for credit, banking/wallet, and leasing functionalities.
-    - Enhanced solutions using the **MERN stack**, boosting performance and maintainability.
+<div align="center">
 
-- **Freelancer (.NET Developer)**
-  - _Jan 2021 - August 2022_
-  - 🛒 **Major Projects:**
-    - Developed a full e-commerce website using **.NET Core, Azure, and SQL Server**.
-    - Built and integrated modern web solutions in multiple .NET-based projects for diverse clients, providing scalable and robust applications.
+<h2>🛠️ Technical Stack</h2>
 
----
+<b>Languages</b>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,js,ts" alt="C#, JavaScript, TypeScript" />
+</p>
 
-### 🎓 **Education**
+<b>Frameworks & Libraries</b>
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,angular" alt=".NET, React, " />
+</p>
 
-- **SUPINFO International University** — _Master of Engineering (M.Eng.)_
-  - _Focus: Emerging technologies, software engineering, and project management_
-  - _2018 - 2020_
-- **ISMOTICA** — _Specialized Technician in Software Development_
-  - _Focus: Software development, programming languages, and database management_
-  - _2015 - 2017_
+<b>Databases & Cloud</b>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,azure,aws" alt="MongoDB, PostgreSQL, Azure, AWS" />
+</p>
 
----
+<b>Tools</b>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,github,postman,docker" alt="VS, GitHub, PowerShell, Postman, Docker" />
+</p>
 
-### 🛠️  **Technical Skills**
+</div>
 
-- **Languages & Frameworks:** JavaScript, C#, .NET, Node.js (MERN Stack)
-- **Backend & Frontend Development:** .NET / C#, Node.js / JavaScript
-- **Cloud & Databases:** Azure, SQL Server (RDBMS), MongoDB (NoSQL)
-- **Development Tools:** Visual Studio, Git, Windows Server, Linux
-- **Mobile Development:** Android Studio, Xcode
-- **Methodologies:** Agile, Scrum
-- **Additional Software:** Microsoft Office Suite, Photoshop
+<h2>📈 GitHub Metrics</h2>
 
----
+<p>
+  <img src="https://github-readme-stats-othmane-elalami.vercel.app/api?username=Othmane-ElAlami&count_private=true&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-othmane-elalami.vercel.app/api/top-langs/?username=Othmane-ElAlami&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top Languages" />
+</p>
 
-### 🌍 **Languages**
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Othmane-ElAlami&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%"/>
+</p>
 
-- **Arabic:** Native
-- **French:** Fluent
-- **English:** Fluent
+<h2>📅 Professional Timeline</h2>
 
----
+<table>
+  <thead>
+    <tr>
+      <th>Period</th>
+      <th>Role</th>
+      <th>Organization</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2022 → Present</td>
+      <td>Techno-Functional Consultant</td>
+      <td>Nupsol</td>
+    </tr>
+    <tr>
+      <td>2021 → 2022</td>
+      <td>.NET Developer</td>
+      <td>Freelance</td>
+    </tr>
+  </tbody>
+</table>
 
-[![My GitHub stats](https://github-readme-stats-othmane-elalami.vercel.app/api?username=Othmane-ElAlami&count_private=true&hide=stars&show_icons=true&theme=transparent)](https://github.com/Othmane-ElAlami/GitHub-ReadMe-Stats)
+<div align="center">
 
----
+<h2>🌐 Languages</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Arabic-Native-1E88E5?style=for-the-badge" alt="Arabic Native"/>
+  <img src="https://img.shields.io/badge/French-C1-1E88E5?style=for-the-badge" alt="French C1"/>
+  <img src="https://img.shields.io/badge/English-C1-1E88E5?style=for-the-badge" alt="English C1"/>
+</p>
+
+</div>
+
+<p>
+  <img src="https://count.getloli.com/get/@Othmane-ElAlami.github.io?theme=booru-lewd" alt="Profile views" />
+</p>
+
+</div>
