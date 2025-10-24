@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3800&pause=900&color=EF5350&center=true&vCenter=true&width=700&lines=rm+-rf+%2F+--no-preserve-root;git+blame-someone-else;%2F%2FTODO%3A+fix+this+later+(never);sudo+reboot+--now+--because-i-can" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=800&color=00E676&center=true&vCenter=true&width=820&lines=git+push+--force+origin+main;deploy+--now+--friday+--no-mercy;%2F%2FTODO%3A+break+limits%2C+not+builds;chmod+777+attitude+%26%26+exec+swagger" alt="typing banner" />
 </p>
 
 <h2>🚀 What I Do</h2>
@@ -41,7 +41,7 @@
 
 <b>Frameworks & Libraries</b>
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,angular" alt=".NET, React, " />
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,angular" alt=".NET, Nodejs, React, Angular" />
 </p>
 
 <b>Databases & Cloud</b>
@@ -59,7 +59,7 @@
 <h2>📈 GitHub Metrics</h2>
 
 <p>
-  <img src="https://github-readme-stats-othmane-elalami.vercel.app/api?username=Othmane-ElAlami&count_private=true&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-othmane-elalami.vercel.app/api?username=Othmane-ElAlami&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide=stars&show=reviews" height="165" alt="GitHub stats" />
   <img src="https://github-readme-stats-othmane-elalami.vercel.app/api/top-langs/?username=Othmane-ElAlami&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
@@ -97,8 +97,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Arabic-Native-1E88E5?style=for-the-badge" alt="Arabic Native"/>
-  <img src="https://img.shields.io/badge/French-C1-1E88E5?style=for-the-badge" alt="French C1"/>
-  <img src="https://img.shields.io/badge/English-C1-1E88E5?style=for-the-badge" alt="English C1"/>
+  <img src="https://img.shields.io/badge/French-C2-1E88E5?style=for-the-badge" alt="French C2"/>
+  <img src="https://img.shields.io/badge/English-C2-1E88E5?style=for-the-badge" alt="English C2"/>
 </p>
 
 </div>
