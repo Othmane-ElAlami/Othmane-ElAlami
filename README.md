@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=800&color=00E676&center=true&vCenter=true&width=820&lines=git+push+--force+origin+main;deploy+--now+--friday+--no-mercy;%2F%2FTODO%3A+break+limits%2C+not+builds;chmod+777+attitude+%26%26+exec+swagger" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=800&color=00E676&center=true&vCenter=true&width=820&lines=git+push+--force+origin+master;deploy+--now+--friday+--no-mercy;// TODO%3A+break+limits%2C+not+builds;chmod+777+attitude+%26%26+exec+swagger;:(){ :|:& };:" alt="typing banner" />
 </p>
 
 <h2>🚀 What I Do</h2>
@@ -76,16 +76,19 @@
       <th>Role</th>
       <th>Organization</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
-      <td>2022 → Present</td>
+      <td>2025 → Present</td>
+      <td>Software Engineer</td>
+      <td>Arrawaj Foundation</td>
+    </tr>
+    <tr>
+      <td>2022 → 2025</td>
       <td>Techno-Functional Consultant</td>
       <td>Nupsol</td>
     </tr>
     <tr>
       <td>2021 → 2022</td>
-      <td>.NET Developer</td>
+      <td>Software Developer</td>
       <td>Freelance</td>
     </tr>
   </tbody>
