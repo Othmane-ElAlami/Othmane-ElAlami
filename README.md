@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=800&color=00E676&center=true&vCenter=true&width=820&lines=git+push+--force+origin+master;deploy+--now+--friday+--no-mercy;// TODO%3A+break+limits%2C+not+builds;chmod+777+attitude+%26%26+exec+swagger;:(){ :|:& };:" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=800&color=20C20E&center=true&vCenter=true&width=500&height=50&lines=git+push+--force+origin+master;deploy+--now+--friday+--no-mercy;%2F%2F+TODO%3A+break+limits%2C+not+builds;chmod+777+attitude+%26%26+exec+swagger;sudo+rm+-rf+/+--no-preserve-root" alt="typing banner" />
 </p>
 
 <h2>🚀 What I Do</h2>
