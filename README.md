@@ -59,8 +59,8 @@
 <h2>📈 GitHub Metrics</h2>
 
 <p>
-  <img src="https://github-readme-stats-othmane-elalami.vercel.app/api?username=Othmane-ElAlami&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide=stars&show=reviews" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats-othmane-elalami.vercel.app/api/top-langs/?username=Othmane-ElAlami&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Othmane-ElAlami&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide=stars&show=reviews" height="165" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Othmane-ElAlami&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p>
