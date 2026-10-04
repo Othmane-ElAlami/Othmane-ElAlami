@@ -64,7 +64,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Othmane-ElAlami&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%"/>
+  <img src="https://readme-activity-graph.vercel.app/graph?username=Othmane-ElAlami&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="90%"/>
 </p>
 
 <h2>📅 Professional Timeline</h2>
@@ -76,6 +76,8 @@
       <th>Role</th>
       <th>Organization</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>2025 → Present</td>
       <td>Software Engineer</td>
